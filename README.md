@@ -1,10 +1,6 @@
 # Learning-Git
 Learning Git &amp; GitHub: Hands-on practice with branching, merging, rebasing, conflicts, and advanced workflows.
-
-# 🚀 Learning Git & GitHub
-
-This repository is my **hands-on practice ground** for mastering Git and GitHub.  
-I’m following a structured course (~4 hours) that covers everything from basics to advanced Git concepts, and I’ll use this repo to practice daily.
+I’m following a structured course that covers everything from basics to advanced Git concepts, and I’ll use this repo to practice daily.
 
 ---
 
